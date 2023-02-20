@@ -5,8 +5,6 @@ Scores leaderboard for live updates and make the scores increase randomly.
 The scores of each player will increase every second, and the leaderboard will automatically change the position of the players according to the scores of each player.
 Scores is listed with the player information and animation is applied to list up the player if score is increased from above player.
 
-#### DEMO: [Players LeaderBoard](https://scoreboard-rahuljinexture.vercel.app/)
-
 ## Feature
 Scores Leaderboard: Pass any JSON data of same type and you can see the list of the scorers
 Functional components and Typescript: To maintain the consistency of the project and standards
@@ -28,7 +26,7 @@ Tools used are Github and CodeSandbox to preview the app online on web
 Download this project zip or clone:
 
 ###### To clone in local system.
-- git clone [https://github.com/inx-rj/scoreboard.git](https://github.com/inx-rj/scoreboard.git)
+- git clone [https://github.com/nidhipatel28/leader-board.git](https://github.com/nidhipatel28/leader-board.git)
 
 ###### After succesfully clone follow below steps.
 
@@ -41,7 +39,7 @@ git fetch
 git checkout devlopment
 
 # To install all node/npm packages listed in package.json file.
-npm i
+npm install
 ```
 
 ## To run the project
